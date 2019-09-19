@@ -11,9 +11,6 @@ fields:
 - type: text
   name: description
   label: description
-- type: text
-  name: katex
-  label: katex
 - type: list
   name: series
   label: series
