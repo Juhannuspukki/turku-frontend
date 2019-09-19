@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://turku-frontend.netlify.com"
 title = "johndoe"
 
 theme = "hugo-coder"
@@ -41,7 +41,7 @@ disqusShortname = "yourdiscussshortname"
 
     # Custom CSS
     custom_css = []
-    
+
     # Custom JS
     custom_js = []
 
